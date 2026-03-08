@@ -48,7 +48,7 @@ FONT_MAIN = ("Segoe UI", 13)
 class WaterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Hydration Tracker")
+        self.root.title("Hydration Tracker!")
         self.root.geometry("430x760")
         self.root.resizable(False, False)
 
