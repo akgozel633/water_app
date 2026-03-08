@@ -1,3 +1,1 @@
-# Название проекта
-
-Описание проекта скоро будет здесь.
+Hello ,it's my project that tracks your water intake and shows how much water you need to drink .
