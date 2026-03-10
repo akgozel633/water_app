@@ -1,1 +1,1 @@
-Hello ,it's my project that tracks your water intake and shows how much water you need to drink .
+Hello ,it's my project that tracks your water intake and shows how much water you need to drink .you just have to write your weight and that's all! 
