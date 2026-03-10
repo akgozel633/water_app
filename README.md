@@ -1,1 +1,1 @@
-Hello ,it's my project that tracks your water intake and shows how much water you need to drink .you just have to write your weight and that's all! 
+Hello ,it's my project that tracks your water intake and shows how much water you need to drink .You just have to write your weight and that's all!Once you drunk the required amount ,click at the bottom "Finish" and the results will be saved in json or in excel table.
