@@ -114,7 +114,7 @@ class WaterApp:
     def register(self):
         users = self.load_users()
         if self.reg_login.get() in users:
-            messagebox.showerror("Error", "This Account already exists")
+            messagebox.showerror("Error", "Account already exists")
             return
 
         users[self.reg_login.get()] = self.reg_pass.get()
